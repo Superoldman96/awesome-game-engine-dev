@@ -69,6 +69,9 @@ _Software to help with game engine / video game development._
     - 🆓 [PixiTracker](https://warmplace.ru/soft/pixitracker/) - Quickly create musical sketches, chiptunes and sound experiments.
     - 🆓 [SunVox](https://warmplace.ru/soft/sunvox/) - Powerful [modular synthesizer](https://en.wikipedia.org/wiki/Modular_synthesizer) with pattern-based sequencer ([tracker](https://en.wikipedia.org/wiki/Music_tracker)).
 
+### Materials / Textures
+- 🆓 [ArmorLab](https://armorlab.org) - Generate PBR materials by drag & dropping your photos. [[Source](https://github.com/armory3d/armorlab)]
+
 <br />
 <br />
 
