@@ -390,6 +390,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [HarfBuzz](https://github.com/harfbuzz/harfbuzz) - Text shaping library. Formatted and positioned glyph output.
     - 🎉 [msdfgen](https://github.com/Chlumsky/msdfgen) - Multi-channel signed distance field generator.
     - 💰 [Slug](http://sluglibrary.com) - High-quality, resolution-independent text and vector graphics for 3D apps.
+    - 🎉 [slughorn](https://github.com/AlphaPixel/slughorn) - Library for shoehorning the Slug text/graphics GPU rendering library into projects.
 - C++: File Formats
     - ⭐ [Jpeg-Compressor](https://github.com/richgel999/jpeg-compressor) - Single-file library that writes baseline JPEG compressed images.
     - 🎉 [TinyDNG](https://github.com/syoyo/tinydng) - Header-only DNG / TIFF loader and writer.
