@@ -64,6 +64,9 @@ _Exploring specialty application / game engine / game development topics and fea
 ## Tools / Software
 _Software to help with game engine / video game development._
 
+### 2D Game Dev
+- 🆓 [ShoeBox](http://renderhjs.net/shoebox/) - Drag & drop tools for sprite sheets, bitmap fonts, texture ripping, tile maps and more.
+
 ### Audio Tools
 - Music
     - 🆓 [PixiTracker](https://warmplace.ru/soft/pixitracker/) - Quickly create musical sketches, chiptunes and sound experiments.
@@ -71,6 +74,7 @@ _Software to help with game engine / video game development._
 
 ### Materials / Textures
 - 🆓 [ArmorLab](https://armorlab.org) - Generate PBR materials by drag & dropping your photos. [[Source](https://github.com/armory3d/armorlab)]
+- 🆓 [TexTools for Blender](http://www.renderhjs.net/?doc=texToolsBlender) - UV and texturing tools for _Blender_. [[Source](https://bitbucket.org/renderhjs/textools-blender/src/master/)]
 
 <br />
 <br />
