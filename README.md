@@ -15,6 +15,7 @@ This includes things typically not found in low-level game engines, app / game f
 ## Contents
 
 - [Game Engines](#game-engines)
+    - [Awesome Collections](#awesome-collections)
     - [Popular](#popular)
     - [AAA](#aaa)
     - [Commercial](#commercial)
@@ -44,6 +45,7 @@ This includes things typically not found in low-level game engines, app / game f
     - [Rust](#rust)
     - [Zig](#zig)
 - [Open Source Games](#open-source-games)
+    - [Awesome Collections](#awesome-collections-1)
     - [C](#c-3)
     - [C++](#c-4)
     - [Java](#java-1)
@@ -65,6 +67,7 @@ This includes things typically not found in low-level game engines, app / game f
     - [Tiling](#tiling)
     - [Transparency](#transparency)
 - [Tools / Software](#tools--software)
+    - [Awesome Collections](#awesome-collections-2)
     - [Animation Software](#animation-software)
     - [Audio Tools](#audio-tools)
     - [Color / Palettes](#color--palettes)
