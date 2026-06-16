@@ -13,6 +13,7 @@ Thanks for your interest in contributing. This list aims to provide excellent re
 - The link you are adding may not be accepted if:
     - The owner of this repo feels the link does not adhere to these rules.
     - The link is not a good fit for a list about Game Engine Development.
+- The link you are adding should not be related to AI, LLM's, or Vibe Coding.
 
 ## Existing Links
 

@@ -2,7 +2,7 @@
 
 # Archive
 
-These links sometimes fail link validation. They should still work, but may not. They are kept here because they are excellent resources.
+These resources sometimes fail link validation. They should still work, but may not. They are kept here because they are excellent resources.
 
 <br />
 <br />
@@ -67,10 +67,32 @@ _Software to help with game engine / video game development._
 ### 2D Game Dev
 - 🆓 [ShoeBox](http://renderhjs.net/shoebox/) - Drag & drop tools for sprite sheets, bitmap fonts, texture ripping, tile maps and more.
 
+### AI Assistants
+- 💸 [Coplay](https://www.coplay.dev?ref=github&utm_source=stevinz_awesome_game_engine_dev) - Multi-agent AI Assistant for all aspects of Unity game developement.
+- 💸 [Rosebud AI](https://rosebud.ai) - Vibe coding platform for creating 3D games and interactive web apps with AI.
+- 💸 [Unity Muse](https://unity.com/products/muse) - Unity's suite of AI products.
+
 ### Audio Tools
 - Music
     - 🆓 [PixiTracker](https://warmplace.ru/soft/pixitracker/) - Quickly create musical sketches, chiptunes and sound experiments.
     - 🆓 [SunVox](https://warmplace.ru/soft/sunvox/) - Powerful [modular synthesizer](https://en.wikipedia.org/wiki/Modular_synthesizer) with pattern-based sequencer ([tracker](https://en.wikipedia.org/wiki/Music_tracker)).
+
+### Generative Art
+- Imaging
+    - 💸 [DALL·E](https://en.wikipedia.org/wiki/DALL-E) - Create realistic images from natural language.
+    - 🆓 [Disco Diffusion](http://discodiffusion.com/) - Notebooks, models and techniques for AI art and animations.[[Source](https://github.com/alembics/disco-diffusion)]
+    - 💸 [Midjourney](https://www.midjourney.com/home/) - Image generation accessed through Discord.
+    - 💸 [Replicate](https://replicate.com/) - Run open source models with a cloud API.
+    - 💸 [Stable Diffusion](https://github.com/CompVis/stable-diffusion) - Latent text-to-image diffusion model.
+- Modeling
+    - 📚 [Dream Fusion](https://dreamfusion3d.github.io/) - Text-to-3D using 2D diffusion.
+    - 📚 [GET3D](https://nv-tlabs.github.io/GET3D/) - Generative model of 3D shapes from images by _NVIDIA_. [[Source](https://github.com/nv-tlabs/GET3D)]
+    - 📚 [Magic3D](https://research.nvidia.com/labs/dir/magic3d/) - High-resolution text-to-3D content creation.
+    - 📚 [NeRF](https://www.matthewtancik.com/nerf) - View synthesis of scenes as neural radiance fields. [[Source](https://github.com/bmild/nerf)]
+    - 📚 [Shap-e](https://github.com/openai/shap-e) - Generate 3D objects conditioned on text or images.
+- Sound
+    - 🆓 [Dittytoy](https://dittytoy.net/) - Create generative music using a simple JavaScript API.
+    - 🆓 [Sonic Pi](https://github.com/sonic-pi-net/sonic-pi) - Kind of musical instrument where you code music.
 
 ### Materials / Textures
 - 🆓 [ArmorLab](https://armorlab.org) - Generate PBR materials by drag & dropping your photos. [[Source](https://github.com/armory3d/armorlab)]
