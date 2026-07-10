@@ -2,13 +2,17 @@
 
 # Archive
 
-These resources sometimes fail link validation. They should still work, but may not. They are kept here because they are excellent resources.
+These are resources that are archived, outdated, unmaintained, old versions, or sometimes fail link validation. They should still work, but may not. They are kept here because they are excellent resources.
 
 <br />
 <br />
 
 ## Libraries
 _Language specific game engine development libraries / frameworks / code._
+
+### ActionScript
+- ActionScript: Audio
+    - 🎉 [Bfxr](https://github.com/increpare/bfxr) - Flash sound effects generator based on _Sfxr_, superseded by _Bfxr2_.
 
 ### C
 - C: Fonts
