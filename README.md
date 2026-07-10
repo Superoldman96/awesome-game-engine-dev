@@ -604,7 +604,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [NAudio](https://github.com/naudio/NAudio) - Audio and MIDI library for .NET.
 - C#: Cross-Platform
     - 🌎 [Blazor](https://github.com/dotnet/aspnetcore/blob/main/src/Components/README.md) - C# to JavaScript (as WebAssembly) technology by _Microsoft_. [[Website]((https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor))]
-    - 🎉 [h5](ttps://github.com/curiosity-ai/h5) - Next generation C# to JavaScript compiler.
+    - 🎉 [h5](https://github.com/curiosity-ai/h5) - Next generation C# to JavaScript compiler.
     - 🎉 [Mono](https://github.com/mono/mono) - Open source implementation of _Microsoft_'s .NET Framework.
 - C#: Entity Component System
     - 🎉 [Arch](https://github.com/genaray/Arch) - High-performance ECS with optional multithreading.
@@ -842,7 +842,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 📚 [JavaScript Wiki: Game Engines](https://github.com/bebraw/jswiki/wiki/Game-Engines) - JavaScript / HTML5 game engines and frameworks.
 - JavaScript: Game Engine w/Editor
     - 🎉 [A-Frame](https://github.com/aframevr/aframe/) - Web framework for building VR experiences. [[Website](https://aframe.io)]
-    - 🎉 [Carrots](https://github.com/Carrotstudio0/Carrots-Game-Engine) - Open-source 2D/3D game engine forked from _GDevelop_.
+    - 🎉 [Carrots](https://github.com/Carrotstudio0/Carrots-Engine) - Open-source 2D/3D game engine forked from _GDevelop_.
     - 🎉 [Cocos Creator](https://github.com/cocos-creator/engine) - Cross-Platform 2D/3D game creation. [[Website](https://www.cocos.com/en/creator)]
     - 🎉 [ct.js](https://github.com/ct-js/ct-js) - Desktop 2D game engine, built on _PixiJS_.
     - 🎉 [Egret](https://github.com/egret-labs/egret-core) - Mobile game engine. [[Editor](https://github.com/egret-labs/egret-ui-editor-opensource)]
